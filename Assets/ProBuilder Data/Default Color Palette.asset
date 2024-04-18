@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Default Color Palette
   m_EditorClassIdentifier: 
   m_Colors:
-  - {r: 0.7830189, g: 0.59859896, b: 0.22653373, a: 1}
+  - {r: 0.27058825, g: 0.23137257, b: 0.23137257, a: 1}
   - {r: 0.48570907, g: 0.1990625, b: 0.5188679, a: 1}
   - {r: 0.498, g: 0.859, b: 1, a: 1}
   - {r: 0.224, g: 0.8, b: 0.8, a: 1}
