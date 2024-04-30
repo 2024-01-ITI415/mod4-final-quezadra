@@ -11,6 +11,8 @@ TagManager:
   - Chicken
   - Pig
   - Ground
+  - CollectionArea
+  - Collectible
   layers:
   - Default
   - TransparentFX
