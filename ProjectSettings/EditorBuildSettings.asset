@@ -30,6 +30,9 @@ EditorBuildSettings:
     path: Assets/_Labs/07-Prototype3/07-Prototype3.unity
     guid: a0d2a73e11b0743f4abfb05dbe92329b
   - enabled: 1
-    path: Assets/_Labs/07-Prototype3/prototype 3 -night.unity
+    path: Assets/_Labs/07-Prototype3/prototype 3 night.unity
     guid: 7973565794116e14c8b60050fcba08b3
+  - enabled: 1
+    path: Assets/_Labs/07-Prototype3/07-Prototype sheep 1.unity
+    guid: 993b94196a170914d8f38b8b88b127b8
   m_configObjects: {}
