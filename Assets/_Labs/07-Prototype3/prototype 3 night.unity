@@ -5035,7 +5035,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 645077604}
     m_Modifications:
     - target: {fileID: 134609747881151695, guid: e74d3aa3601632946b6084f189714136, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -5079,15 +5079,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 926419078940113641, guid: e74d3aa3601632946b6084f189714136, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 426.386
+      value: 14.025543
       objectReference: {fileID: 0}
     - target: {fileID: 926419078940113641, guid: e74d3aa3601632946b6084f189714136, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 159.395
+      value: -1.4012909
       objectReference: {fileID: 0}
     - target: {fileID: 926419078940113641, guid: e74d3aa3601632946b6084f189714136, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 79.988
+      value: -22.134987
       objectReference: {fileID: 0}
     - target: {fileID: 926419078940113641, guid: e74d3aa3601632946b6084f189714136, type: 3}
       propertyPath: m_LocalRotation.w
@@ -5219,6 +5219,11 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e74d3aa3601632946b6084f189714136, type: 3}
+--- !u!4 &567391322 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 926419078940113641, guid: e74d3aa3601632946b6084f189714136, type: 3}
+  m_PrefabInstance: {fileID: 567391321}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &572759673
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5691,6 +5696,7 @@ Transform:
   - {fileID: 1890891448}
   - {fileID: 1116865302}
   - {fileID: 234319219}
+  - {fileID: 567391322}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &648844631
@@ -14663,6 +14669,7 @@ GameObject:
   - component: {fileID: 1772889916}
   - component: {fileID: 1772889915}
   - component: {fileID: 1772889914}
+  - component: {fileID: 1772889918}
   m_Layer: 0
   m_Name: scene tyo night
   m_TagString: Untagged
@@ -14756,6 +14763,18 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1772889918
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1772889913}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ca74979a963fb64b8f75642d4f7abc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1784133341
 GameObject:
   m_ObjectHideFlags: 0
@@ -18253,13 +18272,12 @@ SceneRoots:
   - {fileID: 1352534758}
   - {fileID: 1177480243}
   - {fileID: 1772889917}
-  - {fileID: 645077604}
-  - {fileID: 567391321}
   - {fileID: 1526091500}
   - {fileID: 1981083960}
   - {fileID: 899251671}
   - {fileID: 1337367878}
   - {fileID: 1645277716}
+  - {fileID: 645077604}
   - {fileID: 1585129703}
   - {fileID: 1167638525}
   - {fileID: 5172855061941648884}
